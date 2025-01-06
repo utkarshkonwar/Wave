@@ -1,6 +1,14 @@
-# Wave Application
+# Wave Application 
+[Paper](https://ieeexplore.ieee.org/document/10396173)
+
 
 The Wave application, a graphical user interface (GUI) program built using Python. The Wave application provides functionality related to computer vision, webcam control, and menu settings.
+
+
+
+https://github.com/17Swagat/wave/assets/72545910/7fc69810-2d12-438d-bcfe-24005815cde8
+
+
 
 ## Table of Contents
 
